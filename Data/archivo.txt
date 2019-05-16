@@ -1,0 +1,11 @@
+Partida
+loop,angie@1234.com,1234,190,Wed May 15 14:43:41 COT 2019,SI@
+claek,claek@123.com,123,30,Wed May 15 14:44:52 COT 2019,NO@
+kkklk,jhjh@holi.com,ros,20,Wed May 15 14:18:07 COT 2019,NO@
+Partida
+fernando,fernando@f.com,fernando,20,Wed May 15 16:45:29 COT 2019,NO@
+antonio,antonio@a.com,antonio,300,Wed May 15 16:42:21 COT 2019,SI@
+claek,claek@123.com,123,20,Wed May 15 16:47:08 COT 2019,NO@
+Partida
+alp,al@pacino.com,xdxd,20,Wed May 15 17:10:42 COT 2019,NO@
+kao,angie@1234.com,1234,160,Wed May 15 17:09:41 COT 2019,SI@
